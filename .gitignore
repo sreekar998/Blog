@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Database
+*.db
+
+# Alembic
+migrations/
+
+# VS Code
+.vscode/
+
+# Poetry
+poetry.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Test cache
+.pytest_cache/
+
+# Other
+*.sqlite3
